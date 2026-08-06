@@ -41,10 +41,10 @@ The server is deliberately **thin and stateless**. It is a pure proxy:
 4. The structured result is returned to the agent.
 
 ```
-┌──────────────┐  MCP / tools/call   ┌──────────────────┐  HTTPS   ┌──────────────────┐
-│ MCP client   │ ───────────────────▶│ Dida Hotel MCP   │ ───────▶ │ Upstream API      │
-│ (Claude, …)  │ ◀───────────────────│  (this server)   │ ◀─────── │ mcp.rollinggo.ai  │
-└──────────────┘   JSON result       └──────────────────┘  headers └──────────────────┘
+┌──────────────┐  MCP / tools/call   ┌──────────────────────┐  HTTPS   ┌──────────────────┐
+│ MCP client   │ ───────────────────▶│ RollingGo Hotel MCP  │ ───────▶ │ Upstream API      │
+│ (Claude, …)  │ ◀───────────────────│  (this server)       │ ◀─────── │ mcp.rollinggo.ai  │
+└──────────────┘   JSON result       └──────────────────────┘  headers └──────────────────┘
                                      Authorization: Bearer mcp_…
 ```
 
@@ -142,6 +142,31 @@ The three tools form a natural conversation flow for an agent:
 2. **`searchHotels`** — get a candidate list, each with a live lowest price.
 3. **`getHotelDetail`** — drill into one hotel for room types, taxes, and
    cancellation policy before booking.
+
+### Putting it to work: RollingGo Hotel MCP
+
+To make this concrete, I'll use [RollingGo Hotel
+MCP](https://github.com/DIDA-AI/Dida-RollingGo-Hotel-MCP-Global) as the worked
+example. Once you have a free API key from the [partner
+center](https://global.rollinggo.store/), any MCP client connects to
+`https://mcp.rollinggo.ai/mcp` in about five minutes:
+
+```json
+{
+  "mcpServers": {
+    "RollingGo-Hotel": {
+      "url": "https://mcp.rollinggo.ai/mcp",
+      "type": "streamable-http",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY"
+      }
+    }
+  }
+}
+```
+
+Then "find me a five-star hotel near the Shanghai Bund" becomes a
+`searchHotels` call — no custom backend on the client side.
 
 ## Things I'd warn you about
 
