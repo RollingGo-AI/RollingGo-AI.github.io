@@ -1,0 +1,6 @@
+.DS_Store
+.sass-cache
+.jekyll-cache
+Gemfile.lock
+vendor/
+node_modules/

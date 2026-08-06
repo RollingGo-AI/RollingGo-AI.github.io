@@ -1,0 +1,27 @@
+title: RollingGo
+email: york.lu@dida.com
+description: >-
+  Notes on MCP servers, AI agents, and travel-tech APIs — the permanent home
+  for posts published by RollingGo.
+baseurl: ""
+url: "https://RollingGo-AI.github.io"
+theme: minima
+
+# Build settings
+permalink: /:title/
+markdown: kramdown
+
+# Pagination
+paginate: 5
+paginate_path: "/page:num/"
+
+# Author / social (minima blocks)
+author: RollingGo
+github_username: RollingGo-AI
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
