@@ -177,3 +177,7 @@ transactional.
 
 This post originally published at
 <https://RollingGo-AI.github.io/rollinggo-hotel-api/>
+
+Questions, feedback, or partnership? Reach out at
+[contact@rollinggo.ai](mailto:contact@rollinggo.ai) or join the
+[Discord community](https://discord.gg/DvKcz7YnH).
