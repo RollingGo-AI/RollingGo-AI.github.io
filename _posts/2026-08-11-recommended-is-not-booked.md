@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Recommended Is Not Booked: What Actually Happens When Your AI 'Books' a Hotel"
-date: 2026-08-11 20:00:00 +0800
+date: 2026-08-11 08:00:00 +0800
 categories: [mcp, ai, travel]
 ---
 
