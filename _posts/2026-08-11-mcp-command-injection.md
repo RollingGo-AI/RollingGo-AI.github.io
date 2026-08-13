@@ -93,7 +93,7 @@ I don't have an answer. Not sure anyone does yet.
 - **"This is just growing pains."** — Fair point. The arc looks like early cloud security. The difference is speed — 150M downloads and an NSA document within 18 months of release.
 
 This post originally published at
-<https://rollinggo-ai.github.io/200k-mcp-servers-command-injection/>
+<https://rollinggo-ai.github.io/mcp-command-injection/>
 
 Questions, feedback, or partnership? Reach out at
 [contact@rollinggo.ai](mailto:contact@rollinggo.ai) or join the
