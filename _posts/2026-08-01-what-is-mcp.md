@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Is MCP? A Plain-English Intro (and How It's Different From an API)"
+title: "What Is MCP?"
 date: 2026-08-01 08:00:00 +0800
 categories: [mcp, ai, beginner]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why AI Hotel Prices Are Often Wrong — and What 'Live Price' Really Means"
+title: "Why AI Hotel Prices Are Often Wrong"
 date: 2026-08-03 08:00:00 +0800
 categories: [mcp, ai, travel, pricing]
 ---
