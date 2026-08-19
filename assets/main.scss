@@ -1,0 +1,138 @@
+---
+---
+
+// RollingGo palette (defined before the theme import so minima's !default
+// values don't override them)
+$brand-color:      #0f766e;
+$text-color:       #1f2937;
+$background-color: #ffffff;
+$grey-color:       #6b7280;
+$grey-color-light: #e5e7eb;
+$grey-color-dark:  #374151;
+$code-bg-color:    #f0fdfa;
+$code-background-color: #f0fdfa;
+
+@import "minima";
+
+// ---- RollingGo color dressing ----
+
+body {
+  background-color: $background-color;
+  color: $text-color;
+}
+
+::selection {
+  background: #99f6e4;
+  color: #134e4a;
+}
+
+a {
+  color: #0f766e;
+  &:hover {
+    color: #0d9488;
+    text-decoration: underline;
+  }
+}
+
+// Header
+.site-header {
+  border-top: 5px solid #0f766e;
+  border-bottom: 1px solid #e5e7eb;
+  background: #ffffff;
+}
+
+.site-title {
+  color: #0f766e;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  &:visited { color: #0f766e; }
+  &:hover { color: #0d9488; text-decoration: none; }
+}
+
+.site-nav .page-link {
+  color: #374151;
+  &:hover { color: #0f766e; }
+}
+
+// Footer
+.site-footer {
+  background: #f8fafc;
+  border-top: 1px solid #e5e7eb;
+  color: #6b7280;
+  h2, h3 { color: #0f766e; }
+}
+
+// Post list on the home page
+.post-list > li {
+  border: 1px solid #e5e7eb;
+  border-left: 4px solid #14b8a6;
+  border-radius: 8px;
+  padding: 0.75rem 1rem;
+  margin-bottom: 1rem;
+  background: #fcfcfd;
+  transition: border-color 0.2s ease;
+  &:hover {
+    border-color: #99f6e4;
+    border-left-color: #0f766e;
+  }
+}
+
+.post-link {
+  color: #0f766e;
+  &:visited { color: #0f766e; }
+  &:hover { color: #0d9488; }
+}
+
+.post-meta {
+  color: #6b7280;
+  font-size: 0.85em;
+}
+
+.post-title {
+  color: #111827;
+}
+
+// Code
+code {
+  background: #f0fdfa;
+  color: #134e4a;
+  padding: 0.15em 0.35em;
+  border-radius: 4px;
+  border: 1px solid #ccfbf1;
+}
+
+pre {
+  background: #f0fdfa;
+  border: 1px solid #ccfbf1;
+  border-left: 4px solid #14b8a6;
+  border-radius: 6px;
+  code {
+    background: transparent;
+    border: 0;
+    padding: 0;
+  }
+}
+
+.highlight {
+  background: #f0fdfa;
+}
+
+// Quotes
+blockquote {
+  border-left: 4px solid #14b8a6;
+  background: #f0fdfa;
+  color: #374151;
+  margin: 0;
+  padding: 0.5em 1em;
+}
+
+// Tables
+table {
+  th {
+    background: #0f766e;
+    color: #ffffff;
+  }
+  tr:nth-child(even) {
+    background: #f0fdfa;
+  }
+}
