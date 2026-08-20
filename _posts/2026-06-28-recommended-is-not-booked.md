@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Recommended ≠ Booked: Why Your AI Chatbot Isn't Actually Booking Hotels"
-date: 2026-08-02 08:00:00 +0800
+date: 2026-06-28 08:00:00 +0800
 categories: [mcp, ai, travel, beginner]
+order: 2
 ---
 
 Every week someone shows me a travel chatbot that "books hotels." Most of them don't actually book anything.

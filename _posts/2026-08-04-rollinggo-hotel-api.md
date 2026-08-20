@@ -3,6 +3,7 @@ layout: post
 title: "How We Let AI Search Real Hotels: A Simple MCP Server, Explained"
 date: 2026-08-04 08:00:00 +0800
 categories: [mcp, ai, travel]
+order: 4
 ---
 
 AI assistants are great at *recommending* hotels. They're terrible at *finding you a real one you can actually book tonight*.

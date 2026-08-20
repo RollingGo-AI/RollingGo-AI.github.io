@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "What Is MCP?"
-date: 2026-08-01 08:00:00 +0800
+date: 2026-06-15 08:00:00 +0800
 categories: [mcp, ai, beginner]
+order: 1
 ---
 
 You've heard "MCP" a lot lately. Every AI article mentions it. But almost nobody explains it simply. So here's the plain version: what MCP is, why it exists, and how it's different from an API.

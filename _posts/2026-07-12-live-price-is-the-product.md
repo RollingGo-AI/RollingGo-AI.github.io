@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Why AI Hotel Prices Are Often Wrong"
-date: 2026-08-03 08:00:00 +0800
+date: 2026-07-12 08:00:00 +0800
 categories: [mcp, ai, travel, pricing]
+order: 3
 ---
 
 The most common thing I see in "AI travel" demos is a chat window making up hotel prices.
