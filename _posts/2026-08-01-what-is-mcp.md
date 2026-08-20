@@ -7,7 +7,7 @@ categories: [mcp, ai, beginner]
 
 You've heard "MCP" a lot lately. Every AI article mentions it. But almost nobody explains it simply. So here's the plain version: what MCP is, why it exists, and how it's different from an API.
 
-No code in this post. Just the mental model.
+There's no code in this post, just the mental model.
 
 ## The problem MCP solves
 
@@ -78,6 +78,10 @@ Also, MCP is a *transport* standard. It doesn't make data trustworthy by itself.
 
 ## The takeaway
 
-- **API**: a fixed menu a program can order from.
-- **MCP**: a standard that lets AI browse the menu and order for itself.
-- The value is real data: AI that *does* things, instead of AI that *guesses* things.
+The simplest way to tell API and MCP apart: with an API you write code to order from a fixed menu; with MCP the AI browses the menu and orders for itself. The value is that it stops guessing and starts checking real data.
+
+Want to try it? Grab a free key at the [RollingGo partner center](https://global.rollinggo.store/) and plug any MCP client into `https://mcp.rollinggo.ai/mcp`.
+
+This post originally published at <https://RollingGo-AI.github.io/what-is-mcp/>
+
+Questions? Reach out at [contact@rollinggo.ai](mailto:contact@rollinggo.ai) or join the [Discord community](https://discord.gg/DvKcz7YnH).
