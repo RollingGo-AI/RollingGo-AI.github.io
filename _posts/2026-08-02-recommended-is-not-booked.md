@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Recommended Is Not Booked: Why Your AI Chatbot Isn't Actually Booking Hotels"
+title: "Recommended ≠ Booked: Why Your AI Chatbot Isn't Actually Booking Hotels"
 date: 2026-08-02 08:00:00 +0800
 categories: [mcp, ai, travel, beginner]
 ---
