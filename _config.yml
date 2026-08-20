@@ -2,8 +2,7 @@ title: RollingGo
 email: contact@rollinggo.ai
 description: >-
   I build AI tools for travel and write about MCP servers, AI agents, and why
-  booking a hotel is harder than it looks. The full version of every post lives
-  here first.
+  booking a hotel is harder than it looks.
 baseurl: ""
 url: "https://RollingGo-AI.github.io"
 theme: minima
