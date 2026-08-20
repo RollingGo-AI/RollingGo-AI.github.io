@@ -5,7 +5,7 @@ date: 2026-08-01 08:00:00 +0800
 categories: [mcp, ai, beginner]
 ---
 
-You've heard "MCP" a lot lately. Every AI article mentions it. But almost nobody explains it simply. So here's the plain-English version: what MCP is, why it exists, and how it's different from an API.
+You've heard "MCP" a lot lately. Every AI article mentions it. But almost nobody explains it simply. So here's the plain version: what MCP is, why it exists, and how it's different from an API.
 
 No code in this post. Just the mental model.
 
