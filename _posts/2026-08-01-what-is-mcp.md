@@ -81,9 +81,3 @@ Also, MCP is a *transport* standard. It doesn't make data trustworthy by itself.
 - **API**: a fixed menu a program can order from.
 - **MCP**: a standard that lets AI browse the menu and order for itself.
 - The value is real data: AI that *does* things, instead of AI that *guesses* things.
-
-Want to try it? Grab a free key at the [RollingGo partner center](https://global.rollinggo.store/) and plug any MCP client into `https://mcp.rollinggo.ai/mcp`.
-
-This post originally published at <https://RollingGo-AI.github.io/what-is-mcp/>
-
-Questions? Reach out at [contact@rollinggo.ai](mailto:contact@rollinggo.ai) or join the [Discord community](https://discord.gg/DvKcz7YnH).
