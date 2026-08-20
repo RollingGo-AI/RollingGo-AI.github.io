@@ -1,8 +1,9 @@
 title: RollingGo
 email: contact@rollinggo.ai
 description: >-
-  Notes on MCP servers, AI agents, and travel-tech APIs — the permanent home
-  for posts published by RollingGo.
+  I build AI tools for travel and write about MCP servers, AI agents, and why
+  booking a hotel is harder than it looks. The full version of every post lives
+  here first.
 baseurl: ""
 url: "https://RollingGo-AI.github.io"
 theme: minima

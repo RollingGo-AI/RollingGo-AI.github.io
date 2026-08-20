@@ -5,9 +5,10 @@ title: RollingGo — MCP & Travel-Tech Notes
 
 # RollingGo
 
-Notes on MCP servers, AI agents, and travel-tech APIs. This site is the
-**permanent home** for everything I publish — the full version of every post
-lives here, before any syndicated excerpt.
+Hi, I build AI tools for travel and write about what I learn along the way —
+MCP servers, AI agents, and why booking a hotel is harder than it looks. This
+is my home on the web: every post starts here in full, before it goes anywhere
+else.
 
 ## Latest posts
 
