@@ -5,8 +5,9 @@ title: RollingGo — MCP & Travel-Tech Notes
 
 # RollingGo
 
-Hi, I build AI tools for travel and write about what I learn along the way —
-MCP servers, AI agents, and why booking a hotel is harder than it looks.
+Hi, I'm Joyce. I build AI tools for travel and write about what I learn along
+the way — MCP servers, AI agents, and why booking a hotel is harder than it
+looks.
 
 ## Latest posts
 
