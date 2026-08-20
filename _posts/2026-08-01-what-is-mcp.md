@@ -62,13 +62,13 @@ This is the big one. When an AI uses MCP, it can pull live prices and real avail
 
 ## A real example: RollingGo Hotel MCP
 
-[RollingGo Hotel MCP](https://github.com/RollingGo-AI/RollingGo-Hotel-MCP-Global) is a good example. It exposes **2M+ hotels** to any AI as three simple tools:
+[RollingGo Hotel MCP](https://github.com/DIDA-AI/Dida-RollingGo-Hotel-MCP-Global) is a good example. It exposes **2M+ hotels** to any AI as three simple tools:
 
 - `searchHotels` — find matching hotels
 - `getHotelDetail` — get the real-time price for your exact stay
 - `getHotelSearchTags` — understand filter words like "gym" or "free WiFi"
 
-Connect an AI assistant to it at `https://mcp.rollinggo.ai/mcp`, and the AI can search real hotels at real prices. No guessing.
+Connect an AI assistant to it via the [RollingGo partner center](https://global.rollinggo.store/), and the AI can search real hotels at real prices. No guessing.
 
 ## Honest limitations
 
@@ -80,8 +80,9 @@ Also, MCP is a *transport* standard. It doesn't make data trustworthy by itself.
 
 The simplest way to tell API and MCP apart: with an API you write code to order from a fixed menu; with MCP the AI browses the menu and orders for itself. The value is that it stops guessing and starts checking real data.
 
-Want to try it? Grab a free key at the [RollingGo partner center](https://global.rollinggo.store/) and plug any MCP client into `https://mcp.rollinggo.ai/mcp`.
+## Links
 
-This post originally published at <https://RollingGo-AI.github.io/what-is-mcp/>
-
-Questions? Reach out at [contact@rollinggo.ai](mailto:contact@rollinggo.ai) or join the [Discord community](https://discord.gg/DvKcz7YnH).
+- GitHub repo: https://github.com/DIDA-AI/Dida-RollingGo-Hotel-MCP-Global
+- Free API key: https://global.rollinggo.store/
+- MCP endpoint: https://mcp.rollinggo.ai/mcp
+- 5-min quick start: https://global.rollinggo.store/docs/mcp-docs/quick-start

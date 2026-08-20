@@ -46,7 +46,7 @@ Human wallet (holds the money, sets the rules)
         └─ pays for search + price + booking tools
 ```
 
-Worked against [RollingGo Hotel MCP](https://github.com/RollingGo-AI/RollingGo-Hotel-MCP-Global) — which exposes 2M+ hotels via `searchHotels`, `getHotelDetail`, and `getHotelSearchTags` — an AI could run the whole chain: search, confirm a real-time price, then pay.
+Worked against [RollingGo Hotel MCP](https://github.com/DIDA-AI/Dida-RollingGo-Hotel-MCP-Global) — which exposes 2M+ hotels via `searchHotels`, `getHotelDetail`, and `getHotelSearchTags` — an AI could run the whole chain: search, confirm a real-time price, then pay.
 
 And the auth model already matches: the API key sits in the request header, nothing is stored on the server, and one deployment serves many users.
 
@@ -72,6 +72,9 @@ It's this: **an accountable spending boundary around an API key.** Let the AI do
 
 The rest is ordinary engineering.
 
-This post originally published at <https://RollingGo-AI.github.io/agentic-payments-hotel/>
+## Links
 
-Questions? Reach out at [contact@rollinggo.ai](mailto:contact@rollinggo.ai) or join the [Discord community](https://discord.gg/DvKcz7YnH).
+- GitHub repo: https://github.com/DIDA-AI/Dida-RollingGo-Hotel-MCP-Global
+- Free API key: https://global.rollinggo.store/
+- MCP endpoint: https://mcp.rollinggo.ai/mcp
+- 5-min quick start: https://global.rollinggo.store/docs/mcp-docs/quick-start

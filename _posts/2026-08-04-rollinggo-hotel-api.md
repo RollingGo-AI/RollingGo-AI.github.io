@@ -91,6 +91,9 @@ This version **searches and quotes only**. Booking and payment are part of the O
 
 A simple MCP server is a low-friction way to make a real, transactional domain — hotel inventory — usable by AI. The AI does the talking, the tool does the checking, and neither side has to guess. That's the whole game.
 
-This post originally published at <https://RollingGo-AI.github.io/rollinggo-hotel-api/>
+## Links
 
-Questions, feedback, or partnership? Reach out at [contact@rollinggo.ai](mailto:contact@rollinggo.ai) or join the [Discord community](https://discord.gg/DvKcz7YnH).
+- GitHub repo: https://github.com/DIDA-AI/Dida-RollingGo-Hotel-MCP-Global
+- Free API key: https://global.rollinggo.store/
+- MCP endpoint: https://mcp.rollinggo.ai/mcp
+- 5-min quick start: https://global.rollinggo.store/docs/mcp-docs/quick-start

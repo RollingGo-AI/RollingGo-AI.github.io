@@ -58,6 +58,9 @@ MCP is powerful, and it's here to stay. But right now, the security burden falls
 
 Until the standard itself changes, treat every MCP server the way you'd treat software from a stranger: verify it, sandbox it, and don't let it run with more power than it needs.
 
-This post originally published at <https://RollingGo-AI.github.io/mcp-command-injection/>
+## Links
 
-Questions? Reach out at [contact@rollinggo.ai](mailto:contact@rollinggo.ai) or join the [Discord community](https://discord.gg/DvKcz7YnH).
+- GitHub repo: https://github.com/DIDA-AI/Dida-RollingGo-Hotel-MCP-Global
+- Free API key: https://global.rollinggo.store/
+- MCP endpoint: https://mcp.rollinggo.ai/mcp
+- 5-min quick start: https://global.rollinggo.store/docs/mcp-docs/quick-start

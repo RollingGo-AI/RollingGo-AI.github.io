@@ -60,7 +60,7 @@ You → AI → search tool → live price (your dates, your room type)
                  └──→ AI reads out the answer, never invents it
 ```
 
-The AI asks, a real tool calls the live price service, and the AI only reads back what it got. That's the architecture behind [RollingGo Hotel MCP](https://github.com/RollingGo-AI/RollingGo-Hotel-MCP-Global): the agent calls `searchHotels`, then `getHotelDetail` for the real rate. It can narrate the result — it just can't make it up.
+The AI asks, a real tool calls the live price service, and the AI only reads back what it got. That's the architecture behind [RollingGo Hotel MCP](https://github.com/DIDA-AI/Dida-RollingGo-Hotel-MCP-Global): the agent calls `searchHotels`, then `getHotelDetail` for the real rate. It can narrate the result — it just can't make it up.
 
 ## Two prices, don't mix them up
 
@@ -87,8 +87,11 @@ Treat real-time price as the north star, not a feature.
 
 The winning travel agents won't be the ones with the smoothest chat. They'll be the ones whose number a hotel would actually honor. Everything else is tuning.
 
-Want to try a live rate yourself? [RollingGo Hotel MCP](https://github.com/RollingGo-AI/RollingGo-Hotel-MCP-Global) is open on GitHub, free API keys via the [partner center](https://global.rollinggo.store/), endpoint at `https://mcp.rollinggo.ai/mcp`.
+Want to try a live rate yourself? RollingGo Hotel MCP is a good place to start — the repo, free key, endpoint, and quick start are all in the links below.
 
-This post originally published at <https://RollingGo-AI.github.io/live-price-is-the-product/>
+## Links
 
-Questions? Reach out at [contact@rollinggo.ai](mailto:contact@rollinggo.ai) or join the [Discord community](https://discord.gg/DvKcz7YnH).
+- GitHub repo: https://github.com/DIDA-AI/Dida-RollingGo-Hotel-MCP-Global
+- Free API key: https://global.rollinggo.store/
+- MCP endpoint: https://mcp.rollinggo.ai/mcp
+- 5-min quick start: https://global.rollinggo.store/docs/mcp-docs/quick-start

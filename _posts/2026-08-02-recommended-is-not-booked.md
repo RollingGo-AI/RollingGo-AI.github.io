@@ -83,8 +83,11 @@ If you're making an AI travel product:
 
 A recommendation is a paragraph. A booking is a transaction. Treating them as the same thing is how AI travel products lose trust in week one.
 
-Want to see the difference in practice? [RollingGo Hotel MCP](https://github.com/RollingGo-AI/RollingGo-Hotel-MCP-Global) is a real example — AI can search, get live prices, and quote a stay. Get a free key at the [partner center](https://global.rollinggo.store/), endpoint at `https://mcp.rollinggo.ai/mcp`.
+Want to see the difference in practice? RollingGo Hotel MCP is a real example — AI can search, get live prices, and quote a stay.
 
-This post originally published at <https://RollingGo-AI.github.io/recommended-is-not-booked/>
+## Links
 
-Questions? Reach out at [contact@rollinggo.ai](mailto:contact@rollinggo.ai) or join the [Discord community](https://discord.gg/DvKcz7YnH).
+- GitHub repo: https://github.com/DIDA-AI/Dida-RollingGo-Hotel-MCP-Global
+- Free API key: https://global.rollinggo.store/
+- MCP endpoint: https://mcp.rollinggo.ai/mcp
+- 5-min quick start: https://global.rollinggo.store/docs/mcp-docs/quick-start
