@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why AI Hotel Prices Are Often Wrong"
-date: 2026-07-12 08:00:00 +0800
+date: 2026-08-11 08:00:00 +0800
 categories: [mcp, ai, travel, pricing]
 order: 3
 ---

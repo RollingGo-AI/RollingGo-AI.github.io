@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MCP's Security Problem: Why 200,000 Servers Are an Easy Target"
-date: 2026-08-17 08:00:00 +0800
+date: 2026-08-18 08:00:00 +0800
 categories: [mcp, ai, security]
 order: 6
 ---

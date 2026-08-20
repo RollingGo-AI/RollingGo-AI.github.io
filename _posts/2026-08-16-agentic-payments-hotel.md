@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Can an AI Agent Pay for Your Hotel? What 'Agentic Payments' Really Means"
-date: 2026-08-06 08:00:00 +0800
+date: 2026-08-16 08:00:00 +0800
 categories: [mcp, ai, travel, payments]
 order: 5
 ---

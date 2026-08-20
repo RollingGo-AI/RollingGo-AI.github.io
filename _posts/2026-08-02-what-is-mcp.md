@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Is MCP?"
-date: 2026-06-15 08:00:00 +0800
+date: 2026-08-02 08:00:00 +0800
 categories: [mcp, ai, beginner]
 order: 1
 ---

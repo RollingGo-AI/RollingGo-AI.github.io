@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How We Let AI Search Real Hotels: A Simple MCP Server, Explained"
-date: 2026-08-04 08:00:00 +0800
+date: 2026-08-14 08:00:00 +0800
 categories: [mcp, ai, travel]
 order: 4
 ---
