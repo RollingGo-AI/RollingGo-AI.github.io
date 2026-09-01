@@ -5,6 +5,7 @@ permalink: /insight/
 ---
 
 <style>
+  .page-heading { display: none; }
   .covers {
     display: flex;
     justify-content: center;
