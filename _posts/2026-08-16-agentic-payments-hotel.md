@@ -3,7 +3,7 @@ layout: post
 title: "Can an AI Agent Pay for Your Hotel? What 'Agentic Payments' Really Means"
 date: 2026-08-16 08:00:00 +0800
 categories: [mcp, ai, travel, payments]
-order: 5
+order: 6
 ---
 
 "AI books my hotel" sounds simple. It isn't — and the missing piece was never the chatbot.

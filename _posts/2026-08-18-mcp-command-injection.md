@@ -3,7 +3,7 @@ layout: post
 title: "MCP's Security Problem: Why 200,000 Servers Are an Easy Target"
 date: 2026-08-18 08:00:00 +0800
 categories: [mcp, ai, security]
-order: 6
+order: 7
 ---
 
 I used to think MCP security issues were just bugs in bad implementations. Then I read the April 2026 disclosure from [OX Security](https://www.ox.security/blog/the-mother-of-all-ai-supply-chains-critical-systemic-vulnerability-at-the-core-of-the-mcp), and realized the problem is built into the protocol itself.
