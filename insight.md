@@ -168,6 +168,26 @@ permalink: /insight/
     letter-spacing: 2px;
     text-transform: uppercase;
   }
+
+  .plain-card {
+    width: 320px;
+    height: 400px;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.15);
+    transition: transform 0.3s ease;
+  }
+
+  .plain-card:hover {
+    transform: translateY(-4px);
+  }
+
+  .plain-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
 </style>
 
 <div class="covers">
@@ -195,7 +215,9 @@ permalink: /insight/
   </div>
 
   <div>
-    <div class="placeholder"><span>Coming Soon</span></div>
+    <div class="plain-card">
+      <img src="{{ '/assets/images/layla_travel.png' | relative_url }}" alt="Layla Travel">
+    </div>
     <div class="label"><span>Issue 02</span></div>
   </div>
 
